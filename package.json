@@ -1,0 +1,22 @@
+{
+  "name": "finalapp.js",
+  "version": "1.0.0",
+  "description": "a site for show books",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "mohamed hassan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "js": "^0.1.0",
+    "node": "^20.18.0",
+    "nodemon": "^3.1.7",
+    "routes": "^2.1.0",
+    "set": "^1.1.1"
+  }
+}
